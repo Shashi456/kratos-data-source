@@ -1,0 +1,21 @@
+Los Angeles: As scientists question whether the presence, or absence, of antibodies to the novel coronavirus can reliably determine immunity, some are looking to a different component of the immune system, known as T cells, for their role in protecting people in the pandemic.
+
+Recent studies show that some recovered patients who tested negative for coronavirus antibodies did develop T cells in response to their Covid-19 infection. While the studies are small and have yet to be reviewed by outside experts, some scientists now say that people who experience a mild illness, or no symptoms at all, from the new coronavirus, may be eliminating the infection through this T cell response.
+
+The findings add to the evidence that an effective Covid-19 vaccine will need to prompt T cells to work in addition to producing antibodies, and may have implications for several treatments in development. They may also shed light on how immunity to new exposure to infection could work.
+
+“There is mounting evidence that people exposed to the virus have a transient (short-lived) antibody response, or have a T cell response in spite of a minor or absent antibody response,” Dr Alessandro Sette, professor and member of the La Jolla Institutes Infectious Disease and Vaccine Centre in California, said.
+
+When a virus gets past the body’s initial defenses — which include infection-fighting white blood cells — a more specific “adaptive” response kicks in, triggering production of cells that target the invader. These include antibodies that can recognize a virus and lock onto it, preventing its entry into a person’s cells, as well as T cells that can kill both invaders and the cells they have infected.
+
+Six months into a global Covid-19 pandemic that has infected more than 12 million people, questions remain about whether the antibody response to this virus is robust and lasts over time. That could mean T cells have a more important role in offering protection against the illness.
+
+“T cells are often important in controlling viral infections. We are seeing evidence of that,” John Wherry, director of the University of Pennsylvania’s Institute for Immunology, said.
+
+A recent small French study, not yet reviewed by experts, found that six out of eight family members in close contact with relatives who had Covid-19 developed a T cell response, but did not test positive for antibodies. A Swedish study of 200 people found a strong T cell response in most individuals who had mild illness or no symptoms following coronavirus infection, regardless of whether they showed an antibody response.
+
+The finding suggests that coronavirus infection rates may be higher than what has been studied using antibody tests alone, the researchers said. The focus on T cell responses could also shed light on the prospect for longer-term immunity.
+
+There is some evidence that T cells developed after exposure to other coronaviruses that cause the common cold could help fight off the new virus, known as SARS-CoV-2.
+
+Published in Dawn, July 11th, 2020

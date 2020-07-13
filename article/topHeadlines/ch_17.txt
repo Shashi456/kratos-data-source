@@ -1,0 +1,49 @@
+Meistgelesene Artikel Nach links scrollen Nach rechts scrollen
+
+Social Login Für die Registrierung benötigen wir zusätzliche Angaben zu Ihrer Person. {* #socialRegistrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* mobile *} {* addressCity *} Ich bin einverstanden, dass meine Personendaten für das Kommentarlogin verarbeitet werden. Mehr Informationen finden Sie in der Datenschutzerklärung. Bitte stimmen Sie den Datenschutzbestimmungen zu. Account erstellen {* /socialRegistrationForm *} {* #socialRegistrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* mobile *} {* addressCity *}{* /socialRegistrationForm *}
+
+Willkommen zurück Bitte melden Sie sich an, um einen Kommentar zu erfassen. {* loginWidget *} {* loginWidget *} Einen anderen Account verwenden
+
+{| rendered_current_photo |} {| current_displayName |}
+
+{| current_emailAddress |} {| foundExistingAccountText |} {| current_emailAddress |}. {| moreInfoText |} {| existing_displayName |}
+
+{| existing_provider_emailAddress |} Created {| existing_createdDate |} at {| existing_siteName |} {| rendered_existing_provider_photo |} {| connectLegacyRadioText |} {| createRadioText |} {| current_provider |} Validating {* mergeAccounts {"custom": true} *}
+
+Anmelden und Registrieren Anmelden {* #signInForm *} {* signInEmailAddress *} {* currentPassword *} Anmelden {* /signInForm *} {* #signInForm *} {* signInEmailAddress *} {* currentPassword *} Passwort vergessen? {* /signInForm *} Einfach und unkompliziert mit Ihrem Social Media Account oder Ihrer Apple ID anmelden {* loginWidget *} {* loginWidget *}
+
+Neues Passwort erstellen Geben Sie die E-Mail-Adresse Ihres Benutzerkontos an. Wir senden Ihnen anschliessend einen Link, über den Sie ein neues Passwort erstellen können. {* #forgotPasswordForm *} {* signInEmailAddress *} Senden {* /forgotPasswordForm *} {* #forgotPasswordForm *} {* signInEmailAddress *}{* /forgotPasswordForm *} abbrechen
+
+Neues Passwort erstellen Sie erhalten in Kürze eine E-Mail mit einem Link, um Ihr Passwort zu erneuern. Weiter Keine Nachricht erhalten? Wenn Sie nach 10 Minuten kein E-Mail erhalten haben, prüfen Sie bitte Ihren SPAM Ordner und die Angabe Ihrer E-Mail-Adresse.
+
+Technischer Fehler Oh Hoppla! Es ist ein technischer Fehler aufgetreten. Bitte versuchen Sie es später noch ein Mal oder kontaktieren Sie unseren Kundendienst. Mobilnummer bestätigen Damit Sie einen Kommentar erfassen können, bitten wir Sie, Ihre Mobilnummer zu bestätigen. Wir senden Ihnen einen SMS-Code an die Mobilnummer . Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie unseren Kundendienst. Es wurden bereits zu viele Codes für die Mobilnummer angefordert. Um Missbrauch zu verhindern, wird die Funktion blockiert. Zu viele Versuche. Bitte fordern Sie einen neuen Code an oder kontaktieren Sie unseren Kundendienst. SMS-Code anfordern Mobilnummer ändern Wir haben Ihnen einen SMS-Code an die Mobilnummer gesendet. Bitte geben Sie den SMS-Code in das untenstehende Feld ein. SMS-Code Bestätigen Code erneut anfordern Mobilnummer ändern Zu viele Versuche. Bitte fordern Sie einen neuen Code an oder kontaktieren Sie unseren Kundendienst. Diese Mobilnummer wird bereits verwendet. Bitte ändern Sie Ihre Mobilnummer oder wenden Sie sich an unseren Kundendienst. Schliessen Mobilnummer ändern Die maximale Anzahl an Codes für die angegebene Nummer ist erreicht. Es können keine weiteren Codes erstellt werden. Andere Mobilnummer verwenden Mobilnummer ändern An diese Nummer senden wir Ihnen einen Aktivierungscode. Mobilnummer Diese Mobilnummer wird bereits verwendet Speichern Abbrechen E-Mail bestätigen Wir haben Ihnen ein E-Mail an die Adresse {* emailAddressData *} gesendet. Prüfen Sie bitte Ihr E-Mail-Postfach und bestätigen Sie Ihren Account über den erhaltenen Aktivierungslink. Weiter Keine Nachricht erhalten? Wenn Sie nach 10 Minuten kein E-Mail erhalten haben, prüfen Sie bitte Ihren SPAM-Ordner und die Angabe Ihrer E-Mail-Adresse. Benutzerdaten anpassen {* resendLink *}
+
+Registrieren und Anmelden Registrieren Mit einem SRF-Account erhalten Sie die Möglichkeit, Kommentare auf unserer Webseite sowie in der SRF App zu erfassen. {* #registrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* mobile *} {* addressCity *} {* newPassword *} {* newPasswordConfirm *} Ich bin einverstanden, dass meine Personendaten für das Kommentarlogin verarbeitet werden. Mehr Informationen finden Sie in der Datenschutzerklärung. Bitte stimmen Sie den Datenschutzbestimmungen zu. {* captcha *} Account erstellen {* /registrationForm *} {* #registrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* mobile *} {* addressCity *} {* newPassword *} {* newPasswordConfirm *}{* captcha *}{* /registrationForm *}
+
+E-Mail bestätigen Wir haben Ihnen ein E-Mail an die Adresse {* emailAddressData *} gesendet. Prüfen Sie bitte Ihr E-Mail-Postfach und bestätigen Sie Ihren Account über den erhaltenen Aktivierungslink. Weiter Keine Nachricht erhalten? Wenn Sie nach 10 Minuten kein E-Mail erhalten haben, prüfen Sie bitte Ihren SPAM-Ordner und die Angabe Ihrer E-Mail-Adresse. Benutzerdaten anpassen {* resendLink *}
+
+Ihre Aktivierungs-E-Mail wurde versendet Bitte prüfen Sie Ihr E-Mail-Postfach. Das Aktivierungs-E-Mail wurde versendet. Anmelden
+
+E-Mail-Adresse verifiziert Vielen Dank für die Verifizierung Ihrer E-Mail-Adresse.
+
+Benutzerkonto In dieser Ansicht können Sie Ihre Benutzerdaten verwalten. {* #editProfileForm *} {* firstName *} {* lastName *} {* displayName *} {* emailAddress *} {* mobile *} {* addressCity *} {* captcha *} Speichern {* savedProfileMessage *} {* /editProfileForm *}
+
+{* #editProfileForm *} {* firstName *} {* lastName *} {* displayName *} {* emailAddress *} {* mobile *} {* addressCity *} {* captcha *}{* savedProfileMessage *} {* /editProfileForm *} Passwort ändern Account deaktivieren Benutzerdaten erfolgreich gespeichert Sie können Ihre Daten jederzeit in Ihrem Benutzerkonto einsehen. Schliessen
+
+Benutzerdaten anpassen
+
+Passwort ändern Definieren Sie ein neues Passwort für Ihren Account {* emailAddressData *}. {* #changePasswordForm *} {* currentPassword *} {* newPassword *} {* newPasswordConfirm *} Speichern {* /changePasswordForm *} {* #changePasswordForm *} {* currentPassword *} {* newPassword *} {* newPasswordConfirm *}{* /changePasswordForm *} abbrechen
+
+Neues Passwort erstellen Definieren Sie ein neues Passwort für Ihren Account. {* #changePasswordFormNoAuth *} {* newPassword *} {* newPasswordConfirm *} Passwort Speichern {* /changePasswordFormNoAuth *} {* #changePasswordFormNoAuth *} {* newPassword *} {* newPasswordConfirm *}{* /changePasswordFormNoAuth *}
+
+Passwort erfolgreich gespeichert Sie können sich nun im Artikel mit Ihrem neuen Passwort anmelden.
+
+Ein neues Passwort erstellen Wir haben den Code zum Passwort neusetzen nicht erkannt. Bitte geben Sie Ihre E-Mail-Adresse erneut ein, damit wir Ihnen einen neuen Link zuschicken können. {* #resetPasswordForm *} {* signInEmailAddress *} Senden {* /resetPasswordForm *} {* #resetPasswordForm *} {* signInEmailAddress *}{* /resetPasswordForm *}
+
+Neues Passwort erstellen Sie erhalten in Kürze eine E-Mail mit einem Link, um Ihr Passwort zu erneuern. Keine Nachricht erhalten? Wenn Sie nach 10 Minuten kein E-Mail erhalten haben, prüfen Sie bitte Ihren SPAM Ordner und die Angabe Ihrer E-Mail-Adresse.
+
+Account deaktivieren Ihr Account wird deaktiviert und kann von Ihnen nicht wieder aktiviert werden. Erfasste Kommentare werden nicht gelöscht. Wollen Sie Ihren Account wirklich deaktivieren? {* deactivateAccountForm *} abbrechen {* /deactivateAccountForm *} {* deactivateAccountForm *}{* /deactivateAccountForm *}
+
+Account deaktiviert Ihr Account wurde deaktiviert und kann nicht weiter verwendet werden.
+
+Wenn Sie sich erneut für die Kommentarfunktion registrieren möchten, melden Sie sich bitte beim Kundendienst von SRF. Schliessen

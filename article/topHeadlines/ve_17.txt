@@ -1,0 +1,15 @@
+Hechos clave: El CEO de Brave, Brendan Eich, advirtió que su firma defenderá a toda costa sus marcas registradas.
+
+Los responsables de la bifurcación anunciaron que ahora identificarán su navegador como Bold.
+
+Los responsables del navegador Braver, una bifurcación de Brave, anunciaron oficialmente este 9 de julio que, debido a amenazas legales de «ciertos actores», decidieron cambiar su nombre a Navegador Bold. De hecho, el anuncio fue hecho desde la nueva cuenta de Twitter @BoldBrowser.
+
+El equipo de Bold prefirió no nombrar a los responsables del equipo de Brave como los que le amenazaron con acciones legales, aunque señala que «uno de los miembros de nuestra comunidad recibió amenazas legales».
+
+Pero ya el CEO de Brave, Brendan Eich, había declarado en el momento de la bifurcación, a través de un tuit del 8 de junio, que el equipo de Braver tenía que renombrar su navegador.
+
+Tienen que renombrar y también ejecutar un conjunto de servicios y actualizaciones por su cuenta. No disfrutarán de tareas gratuitas en nuestros servidores […] Una marca registrada puede perderse si no se defiende. Brendan Eich, CEO de Brave.
+
+La bifurcación que dio origen a Braver, tal como lo reportó CriptoNoticias, fue una respuesta de la comunidad de Brave ante la existencia de enlaces de referidos incluidos en el código de Brave sin previa notificación a sus usuarios
+
+La noticia no fue recibida con buenos ojos en la comunidad de usuarios, al considerar que estas prácticas van en contra de los principios que la empresa decía promover. Un grupo de desarrolladores respondió realizando una bifurcación de Brave que ofrecía dejar de lado estas prácticas.

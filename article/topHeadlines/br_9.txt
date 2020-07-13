@@ -1,0 +1,73 @@
+Pesquisadores do MIT queriam saber se pessoas já nascem com a visão 'distorcida' de uma ilusão de ótica ou se a desenvolvem posteriormente.
+
+Igual ou diferente? A ilusão de ótica que levou mais de 100 anos para ser explicada
+
+Foto: MIT/Pawan Sinha / BBC News Brasil
+
+Quer encarar um desafio visual?
+
+Dois pontos cinza sobre um fundo que consiste em um degradê que vai do cinza claro ao escuro.
+
+Os dois pontos são idênticos mas parecem muito diferentes entre si, dependendo de onde estão posicionados em relação ao fundo.
+
+Por mais de 100 anos, os cientistas tentaram decifrar o mecanismo por trás desta ilusão visual clássica chamada "contraste de brilho simultâneo" (simultaneous brightness contrast, em inglês).
+
+E agora eles parecem ter encontrado a resposta.
+
+A retina
+
+Até agora, os cientistas pensavam que essa ilusão era algo que acontecia no cérebro.
+
+No entanto, um estudo realizado por cientistas do Instituto Tecnológico de Massachusetts (MIT), nos Estados Unidos, sugere que ela se baseia em uma estimativa do brilho que acontece antes que a informação chegue ao córtex visual do cérebro, possivelmente dentro da retina.
+
+Foto: Getty Images / BBC News Brasil
+
+"Todos nossos experimentos apontam para a conclusão de que esse é um fenômeno de baixo nível", diz Pawan Sinha, professor de visão e neurociência computacional no Departamento de Ciências Cognitivas e do Cérebro do MIT.
+
+"Os resultados ajudam a responder à pergunta sobre qual é o mecanismo subjacente neste processo fundamental de estimativa do brilho, que é um componente básico de muitos outros tipos de análise visual."
+
+Esse efeito chamou a atenção de artistas ao longo de séculos e várias pesquisas sobre como percebemos os tons em contraste entre si também foram conduzidas desde o século 19, afirma a publicação científica Science Alert.
+
+Mas nem todas as perguntas haviam sido respondidas.
+
+Os experimentos
+
+Os pesquisadores do MIT realizaram uma série de experiências para comprovar sua hipótese.
+
+Em uma delas, eles criaram uma imagem de um cubo que parecia iluminado de um lado, com uma face que parecia um pouco mais brilhante do que a outra.
+
+Quando se colocam pontos cinzas idênticos em cada face do cubo, o ponto que está na face que parece estar na sombra aparenta ser mais escuro do que o ponto idêntico colocado na face mais "iluminada".
+
+"Isso é o contrário do que o que acontece com as telas de contraste simultâneo padrão, em que um ponto sobre um fundo escuro parece mais brilhante do que um ponto sobre um fundo claro", diz Sinha.
+
+Foto: MIT/Pawan Sinha / BBC News Brasil
+
+Apesar de nem sempre sermos conscientes, a luminância (magnitude que expressa o fluxo luminoso em uma determinada direção) contribui para as nossas estimativas de brilho, sugerindo que não são necessários processos de pensamento de alto nível para fazer esse juízo de contraste.
+
+Essa descoberta sugere que a estimativa de brilho ocorre muito cedo, antes que a informação proveniente de cada olho se combine no processamento visual e chegue ao cérebro.
+
+Os pesquisadores avaliam a hipótese de que o cálculo de brilho provavelmente acontece na retina.
+
+"Isso é algo para que o sistema visual já está preparado para fazer, desde o nascimento", diz o pesquisador.
+
+Mecanismo inato?
+
+Para provar suas descobertas, os pesquisadores estudaram crianças cegas e que tiveram sua visão restaurada recentemente, mostrando a elas ilusões óticas.
+
+"A previsão é de que se a estimativa de brilho fosse realmente um mecanismo inato, logo depois que as crianças com cegueira congênita começassem a enxergar, elas deveriam ser vítimas da ilusão de contraste simultânea."
+
+Foto: Getty Images / BBC News Brasil
+
+Essa foi exatamente a constatação dos pesquisadores.
+
+Em um estudo com crianças e adolescentes entre oito e 17 anos operadas de catarata, todas foram suscetíveis a essa ilusão. Os testes foram feitos entre 24 e 48 horas depois de removidas as vendas cirúrgicas pós-cirurgia.
+
+Sinha diz que as conclusões são consistentes com outras pesquisas, mas ainda há algumas dúvidas.
+
+Isso pode significar que outros processos cerebrais também estão envolvidos em etapas posteriores.
+
+"Muitos dos fenômenos que atribuímos com rapidez aos processos de alto nível na realidade podem ser instâncias em alguns mecanismos de circuito muito simples do cérebro que estão disponíveis de forma inata."
+
+Veja também: assistir Investidores internacionais pedem resultados contra desmatamento
+
+BBC News Brasil - Todos os direitos reservados. É proibido todo tipo de reprodução sem autorização escrita da BBC News Brasil.

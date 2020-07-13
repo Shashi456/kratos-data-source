@@ -1,0 +1,87 @@
+About 370,000 years after the Big Bang, the Universe experienced a period that cosmologists refer to as the "Cosmic Dark Ages."
+
+During this period, the Universe was obscured by a hot dense plasma that obscured all visible light, making it invisible to astronomers.
+
+As the first stars and galaxies formed over the next few hundred millions of years, the radiation they emitted ionized this plasma, making the Universe transparent.
+
+One of the biggest cosmological mysteries right now is when "cosmic reionization" began. To find out, astronomers have been looking deeper into the cosmos (and farther back in time) to spot the first visible galaxies.
+
+Thanks to new research by a team of astronomers from University College London (UCL), a luminous galaxy has been observed that was reionizing the intergalactic medium 13 billion years ago.
+
+The research was presented last week (July 2nd) during the annual meeting of the European Astronomical Society (EAS) – because of the pandemic, this year's meeting was virtual.
+
+During the course of their presentation, Romain Meyer (a PhD student at UCL and the lead author on the study) and his colleagues shared their findings, which is the first solid evidence that reionization was complete 13 billion years ago.
+
+The universe according to what we can detect through our telescopes. (NASA)
+
+The team responsible for this discovery was led by Romain Meyer, a PhD student with the UCL Astrophysics Group. He was joined by UCL researchers Dr Nicolas Laporte, and Prof Richard S Ellis, as well as Prof Anne Verhamme and Dr Thibault Garel of the University of Geneva. Their findings are also the subject of a paper that was recently submitted to The Monthly Notices of the Royal Astronomical Society.
+
+Studying galaxies that existed during this early period in the Universe is essential to understanding the origins of the cosmos as well as its subsequent evolution.
+
+According to our current cosmological models, the first galaxies formed from coalescing stellar clusters, which were in turn formed when the first stars in the Universe came together.
+
+Over time, these galaxies blasted out the radiation that stripped the neutral gas in the intergalactic medium (IGM) of its electrons (AKA the ionization process). Astronomers know this because we have clear evidence for it, in the form of the Cosmic Dark Ages and the way the Universe is transparent today.
+
+But the key questions of how and when this all occurred remain unknown. As Dr. Meyer told Universe Today via email:
+
+"By looking at distant galaxies, we look into the early Universe, as the light has traveled for billions of years before reaching us. This is fantastic as we can look at what galaxies were like billions of years ago, but it comes with several drawbacks."
+
+For starters, Meyer explained, distant objects are very faint and can only be observed using the most powerful ground-based and space-based telescopes.
+
+At this distance, there's also the tricky issue of redshift, where the expansion of the cosmos causes light from distant galaxies to have its wavelength stretched towards the red end of the spectrum.
+
+Galaxy A370p_z1 with a zoom-in through each filter. (NASA/ESA/Z. Levay/STSci)
+
+In the case of galaxies that several billion years old, the light has been shifted to the point that it is only visible infrared (particularly the UV light Meyer and his colleagues were looking for).
+
+In order to get a good look at A370p_z1, a luminous galaxy 13 billion light-years away, the team consulted Using data from the Hubble Frontier Fields program – which astronomers are still analyzing.
+
+The Hubble data suggested that this galaxy was very redshifted, indicating that it was particularly ancient.
+
+They then made follow-up observations with the Very Large Telescope (VLT) to get a better sense of this galaxy's spectra. In particular, they looked for the bright line that's emitted by ionized hydrogen, known as the Lyman-alpha line. Said Meyer:
+
+"The big surprise was to find that this line, detected at 9480 Angstroms, was a double line. This is extremely rare to find in early galaxies, and this is only the fourth galaxy that we know of to have a double Lyman-alpha line in the first billion years. The nice thing with double Lyman-alpha lines is that you can use them to infer a very important quantity of early galaxies: what fraction of energetic photons they leak into the intergalactic medium."
+
+Another big surprise was the fact that A370p_z1 appeared to be letting 60 to 100 percent of its ionized photons into intergalactic space, and was probably responsible for ionizing the bubble IGM around it.
+
+Galaxies that are closer to the Milky Way typically have escape fractions of about 5 percent (50 percent in some rare cases), but observations of the IGM indicate that early galaxies must have had a 10 to 20 percent escape fraction on average.
+
+This discovery was extremely important because it could help resolve an ongoing debate in cosmological circles.
+
+Until now, the questions of when and how reionization occurred has produced two possible scenarios.
+
+In one, it was a population of numerous faint galaxies leaking about 10 percent of their energetic photons. In the other, it was an "oligarchy" of luminous galaxies with a much larger percentage (50 percent or more) of escaping photons.
+
+In either case, the evidence has so far suggested that the first galaxies were very different from those today.
+
+"Discovering a galaxy with nearly 100 percent escape was really nice because it confirms what astrophysicists suspected: early galaxies were very different from nowadays objects, and leaking energetic photons much more efficiently," said Meyer.
+
+Studying reionization-era galaxies for Lyman-alpha lines has always difficult because of the way they are surrounded by neutral gas that absorbs that signature hydrogen emission.
+
+However, we now have strong evidence that reionization was complete 800 million years after the Big Bang, and that it was likely that a few luminous galaxies were responsible.
+
+If what Meyer and his colleagues observed is typical of reionization-era galaxies, then we can assume that reionization was caused by a small group of galaxies that created large bubbles of ionized gas around them that grew and overlapped.
+
+As Meyer explained, this discovery could point the way towards the creation of a new cosmological model that accurately predicts how and when major changes in the early Universe took place:
+
+This discovery confirms that early galaxies could be extremely efficient at leaking ionizing photons, which is an important hypothesis of our understanding of "cosmic reionization" – the epoch when the intergalactic medium, 13 billion years ago, transitioned from neutral to ionized (e.g. electrons were ripped off hydrogen atoms by these energetic photons).
+
+According to Meyer, more objects like A370p_z1 need to be found so astronomers can establish the average escape fractions of early galaxies.
+
+In the meantime, the next step will be to determine why these early galaxies were so efficient at leaking energetic photons.
+
+Several scenarios have been suggested, and getting a better look at the early Universe will allow astronomers to test them.
+
+As Meyer was sure to note, a lot of that will depend upon next-generation telescopes that will be taking to space very soon. The most notable of these is the James Webb Space Telescope (JWST), which (after multiple delays) is still scheduled to launch sometime next year.
+
+Herein lies another significance for studies like these, which is how they will help the James Webb team decide what cosmological mysteries to investigate.
+
+Timeline of the Universe. Neutrinos affected the CMB when it was emitted. (NASA/JPL-Caltech/A. Kashlinsky/GSFC)
+
+"With the James Webb Space Telescope, we will follow-up this target deeper in the infrared to get access to what was emitted originally in the optical light," said Meyer.
+
+"That will give us more insight into the physical mechanisms at play in early galaxies. JWST's mission is limited in time, and that's why discovering these extreme objects now is so important: by knowing which objects are peculiar or extreme in the first billion years of our Universe, we will know what to look at when JWST is finally launched!"
+
+Exciting times lie ahead for astronomers, astrophysicists, exoplanet-hunters, SETI researchers, and cosmologists. It's hard to know who should be most excited, but something tells me that would be like asking a parent which of their children they love most. Inevitably, the answer is always, "all of them!"
+
+This article was originally published by Universe Today. Read the original article.

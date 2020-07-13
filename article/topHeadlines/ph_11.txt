@@ -1,0 +1,11 @@
+Lisa Eadicicco/Business Insider
+
+Apple has significantly improved widgets in iOS 14, finally bringing the iPhone closer to the level of customization that Android has provided for years.
+
+Widgets in iOS 14 have a new design that shows more data and they now come in multiple sizes. Best of all, you can finally drag and drop them onto the home screen.
+
+The most obvious benefit from this has been the ability to make my home screen more than just a hub for my most frequently-used apps. Glancing down at the home screen can now tell me all sorts of information like what's next on my calender, progress toward my fitness goals, and a to-do list I've recently drafted in the Notes app.
+
+Among the most interesting new widgets is the Smart Stack, which as its name implies is comprised of several widgets piled on top of one another. The widget choices are curated based on the apps you use the most, which for me included Photos, Weather, Calendar, Notes, Apple Maps, and Music. The stack also rotates throughout the day to show relevant information.
+
+These choices were a bit hit-or-miss for me. While Photos, Calendar, and Notes are definitely among my most-used apps, I rarely if ever use Apple Music or Apple Maps.

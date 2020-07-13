@@ -1,0 +1,13 @@
+Macbook-Nutzer decken Webcams oft mit Kunststoffschiebern ab. Das kann schwere Schäden verursachen, für die Apple nicht aufkommt.
+
+Im Zubehörhandel kosten sie wenige Euro: Abdeckungen, teils mit Schiebemechanismen, die die Kameras von Macbooks verdecken. Damit wollen vorsichtige Nutzer verhindern, dass sie heimlich gefilmt werden.
+
+Stellenmarkt Stadt Paderborn, Paderborn AKDB, Villingen-Schwenningen, Regensburg
+
+Apple hat Anfang Juli 2020 eine Support-Seite veröffentlicht, die Macbook-Besitzer davor warnt, ihr Notebook mit montierter Kameraabdeckung zu schließen. Schäden wie ein zerbrochener Bildschirm seien nicht auszuschließen, weil nicht einkalkuliert sei, dass sich zwischen Ober- und Unterteilein Kunststoffteil befindet.
+
+In den Foren einschlägiger Webseiten wie Macrumors und Reddit finden sich Einträge von Personen, die ihre Notebooks mit solchen Abdeckungen ruiniert haben. Garantieschäden sind das nicht und die Displays gehören zu den teuersten Teilen, die beim Notebook ausgetauscht werden können.
+
+Apple empfiehlt, der grünen LED neben der Kamera zu vertrauen, die immer dann leuchtet, wenn die Kamera aktiviert ist: "Die Kamera ist so konstruiert, dass sie nicht aktiviert werden kann, ohne dass die Kontrollleuchte der Kamera ebenfalls aufleuchtet". Außerdem lässt sich in den Einstellungen von MacOS überprüfen und regeln, welche Anwendungen Zugriff auf die Kamera und das Mikrofon erhalten.
+
+Sollte eine Abdeckung durch den Arbeitgeber vorgeschrieben sein, müsse diese vor dem Schließen des Notebooks immer entfernt werden, heißt es bei Apple. Sollte nichts anderes möglich sein als eine permanente Abdeckung, empfiehlt Apple, etwas zu verwenden, das nicht dicker als eine durchschnittliche Seite Druckerpapier (0,1 mm) ist.

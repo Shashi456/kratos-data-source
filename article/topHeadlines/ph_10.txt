@@ -1,0 +1,89 @@
+We are closing in on the top 30 soon, including our ASEAN neighbor Indonesia. Also, 63 percent of the cases today had no location information. BY BENJAMIN CO MD
+
+Infectious diseases and clinical pharmacology expert Dr. Benjamin Co has been thankfully breaking down coronavirus numbers in his personal blog since the outbreak started. The perspective he provides is informative, and comforting in those who are craving for a clear picture of how we are faring against the virus. Dr. Co will share daily updates and analysis of the Department of Health reported numbers with ANCX.
+
+--
+
+Let me start off with a disclaimer, as the Health Agency would do. Whatever is written here is based on the information released by the Department of Health (DoH) at the time of publication. Whatever changes DoH makes in their data later on, well, that’s a different story in itself. As they say in their disclaimer that “the total cases reported may be subject to change as these numbers undergo constant cleaning and validation.”
+
+The data came early. That should mean good news, right? Or is it?
+
+They have not gotten rid of the “fresh” and “late” cases, even though they promised that by July 10 (that was yesterday), they would.
+
+There are 1,387 cases today. There are 79 duplicates so we will need to deduct those from the total cases reported. To do that, we will need to subtract that from the running total of the day so that it will reconcile with all the over-all total. As to where they came from or when they were reported, we will never know. And they will never tell. And it will not matter anymore.
+
+The breakdown of the 1,387 cases: 871 from the “others” (meaning around 63 percent have no tagged location), 439 from National Capital Region (NCR), and the remaining 77 from Region VII.
+
+There are 12 reported deaths (nine died in April, one in May, and two in July). Of the late death reports, five were from Region IVA, three from Region III, and one from NCR. The two deaths in July were from Region VII. The case fatality rate for the Philippines is at 2.53 percent.
+
+The surprise of the day? 807 recoveries. This brings the total recovery rate up to 25.9 percent from a previous 25 percent.
+
+Recovery rates are not good indicators of how well we are doing in a pandemic. The gold standard will always be the deaths.
+
+The seven-day average for cases is now up at almost 1,800 cases/day while the seven-day moving average for deaths is at 11 deaths/day.
+
+Of the 1,233 cases reported yesterday, all regions had cases reported, with NCR having the most number of cases (544) followed by Region IVA (111), and Region VII (58). There were 374 “unknown” (with no tagged location).
+
+Of the 544 cases in NCR, 204 (37.5 percent) are “unknown.” The top five cities yesterday were Quezon City (82), Manila (50), Parañaque (29), Makati (25), and Marikina (23).
+
+Region IVA was second in the haul yesterday with 111 cases broken down as follows: Rizal (46), Laguna (15), Cavite (12), Batangas (6), and 32 “unknown.”
+
+Region VII reported only 58 cases with Lapu-Lapu reporting the highest with 20 cases. The rest were Cebu City (13), Mandaue (11), Cebu Province (9), Bohol (3), and Negros Oriental (1). There was one “unknown” case.
+
+According to the Health Agency, there are 38,324 live active cases, with asymptomatic comprising 6.8 percent (2,619) and mild cases 92.2 percent (35,348). The number of critical and severe patients are up at 357 (or one percent of the overall active cases). The severe cases are up at 257 from 233. Critical cases remain at 100.
+
+The significant increase in asymptomatic cases is bothersome because these may be cases identified during some form of contact tracing and may be presymptomatic. Nevertheless, this group has the potential to transmit infection in the community and should be strictly isolated in various facilities and monitored for the development of symptoms later on. A larger asymptomatic group enhances the ongoing community transmission in the country.
+
+According to DoH, there are now 63 licensed RT-PCR and 21 licensed Gene Expert labs in the country, a grand total of 84 testing facilities to date.
+
+Based on testing capacity, DoH announced that there were 24,617 samples tested on July 9, 2020, among 23,371 individuals. Of those tested, 2,752 tested positive bringing the daily positivity rate up to 11.8 percent and driving the cumulative average to 7.7 percent. Total number of laboratories submitting data were 72 out of 74 for that day.
+
+For the past three days, the total number of patients have exceeded 2,000 positive cases a day. July 9, 2020 was the highest number of positive cases, although it was also the highest number of tests done in a single day. The daily positivity rate is up from a previous 11.35 percent to 11.8 percent (and so with the cumulative positivity rate) because of the increase in cases.
+
+As mentioned previously, there is a direct correlation with the daily positivity rate and the number of new confirmed cases. While it is possible that there may be patients who undergo “retesting” because they were previously positive in the past, that number is usually low and may be between five to 10 percent of the total patients that test positive. The majority, especially the asymptomatic and mild, may not undergo retesting anymore after they have recovered 14 days from the time of isolation or disappearance of symptoms.
+
+Except for July 8, the past days, the total number of daily new confirmed cases were less than 1,500, a large discrepancy from the positive results coming from testing laboratories.
+
+Will we see a deluge of cases in the coming days? Perhaps. Because these numbers should be reconciled and some clarity must be provided by the Health Agency regarding the data discrepancy.
+
+The world
+
+There are now more than 12.6 million confirmed cases of coronavirus (SARS-CoV-2) as we register a new record high for new coronavirus cases yesterday with more than 230,000 cases. Total number of deaths reported yesterday was 5,319 cases. The seven-day average for new cases is up at 202,251 cases/day and deaths at approximately 4,799/day.
+
+The global case fatality rate is lower at 4.45 percent and recovery rate a tad up at 58.4 percent. Recovery rates are not very reliable indicators because they are subjective to the country’s definition of how and when they consider patients “recovered.”
+
+Data from WorldOMeters.
+
+The United States continues its upward trajectory close to the 3.3 million mark as it makes a new record high with 71,787 new confirmed cases for the day. It now has a seven-day average of > 57,000 cases/day or close to 120,000 cases every other day. The last two days saw a surge in deaths with close to 800 to 900 deaths/day or a seven-day average of 657 deaths/day. Top three states contributing to yesterday’s haul were Florida (+11,433), Texas (+10,063), and California (+8,781). While New York still has the highest number of cases in the US, if these top three states are unable to control the exponential surge, California is bound to overtake New York in the next two to three weeks.
+
+The case fatality rate in the US is now at 4.15 percent with 3,292,257 cases as of this report. The US had the second highest number of deaths globally with 849 fatalities.
+
+Brazil stays in second spot with more than 1.8 million cases and continues to report the highest death cases in the world with 1,270 deaths overnight. At the current growth rate in new cases in Brazil, they are bound to reach the two million mark in five days.
+
+The top 10 countries that had the highest new cases overnight were:
+
+USA – 71,787
+
+Brazil – 45,235
+
+India – 27,761
+
+South Africa – 12,348
+
+Mexico – 7,280
+
+Colombia – 6.803
+
+Russia – 6,635
+
+Argentina – 3,367
+
+Peru – 3,198
+
+Saudi Arabia – 3,159
+
+South Africa is set to displace Iran in a few days with the increasing cases there. It will be the first African nation to join the top 10 countries in the world.
+
+The Philippines is at 33rd place in the world with the 1,387 new cases today, overtaking Kuwait and the United Arab Emirates and closes in on Indonesia as the latter remains in 26th place.
+
+When we reconcile all the backlogs and missing data, and hopefully that’s done real soon, we will see where we really stand in the global ranking.

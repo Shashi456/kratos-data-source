@@ -1,0 +1,35 @@
+Covid-19 patients with abnormally high blood sugar are at an increased risk of severe complications and more than twice as likely to face death, warn researchers.
+
+Previous studies have established that hyperglycaemia (abnormally high blood sugar) is associated with an elevated risk of mortality in community-acquired pneumonia, stroke, heart attacks, trauma and surgery, among other conditions.
+
+However, a direct correlation between fasting blood glucose (FBG) level at admission to hospital and clinical outcomes of Covid-19 patients without diagnosed diabetes has not been well established.
+
+Follow NewsGram on Twitter to stay updated about the World news.
+
+“This study shows, for the first time, that elevated FBG at admission is independently associated with increased 28-day mortality and percentages of in-hospital complications in Covid-19 patients without a previous diagnosis of diabetes,” the study authors from Huazhong University in China, wrote.
+
+For the findings, published in the journal Diabetologia, the research team examined the association between FBG on admission and the 28-day mortality of Covid-19 patients without previously diagnosed diabetes in two hospitals.
+
+The retrospective study assessed all consecutive Covid-19 patients with a known outcome at 28-days and FBG measurement at admission from January 24 to February 10 in two hospitals based in Wuhan, China.
+
+Demographic and clinical data, 28-day outcomes, in-hospital complications and CRB-65 scores of Covid-19 patients in the two hospitals were analysed.
+
+The CRB-65 score is an effective measure for assessing the severity of pneumonia and is based on four indicators: level of confusion, respiratory rate, systolic blood pressure or diastolic blood pressure, and age.
+
+A total of 605 Covid-19 patients were enrolled, including 114 who died in hospital.
+
+The results showed that patients in the highest FBG group were 2.3 times more likely to die than those in the lowest, a statistically significant result.
+
+Those in the middle (pre-diabetic) FBG group were 71 per cent more likely to die than those in the lowest group, although this result only had borderline statistical significance.
+
+The data also showed that men were 75 per cent more likely to die than women and patients with higher CRB65 scores (and thus worse pneumonia) were also at higher risk of death.
+
+When looking at FBG and CRB65 scores together, the patients in the highest FBG group had an increased risk of death compared to the lowest, the study revealed.
+
+Also Read: Covid-19 Pandemic Made 147M People Unemployed: Researchers
+
+The risk of complications was also found to be four times higher in the highest FBG group compared to the lowest, and 2.6 times higher in the middle (pre-diabetic) group compared to the lowest.
+
+“We have also shown that FBG of 7.0 mmol/l or higher is associated with increased mortality, regardless of whether the patient has pneumonia that is more or less severe,” the authors wrote.
+
+“Patients with conditions not related to diabetes, such as severe sepsis, systemic inflammatory response syndrome (SIRS) and traumatic brain injury tend to have abnormally high blood sugar,” they added. (IANS)

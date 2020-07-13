@@ -1,0 +1,57 @@
+L'actualité télécom a bien été marquée par le lancement de la Freebox Pop cette semaine. Comment se mesure-t-elle face à l'offre fibre RED de SFR ?
+
+C’est l’actu de la semaine sur le marché des télécoms. Free a lancé une nouvelle box : la Freebox Pop. L’occasion également pour le FAI de remettre à plat sa gamme qui commençait à devenir franchement complexe. Lancée à 29,99 euros par mois pendant un an, puis 39,99 euros par mois, sans engagement, la Pop vient se positionner sur un segment de prix milieu-haut de gamme. Que vaut-elle par rapport à ses concurrentes ? On commence tout de suite avec l’autre très populaire offre fibre sans engagement : la Box RED by SFR à 23 euros par mois.
+
+En bref
+
+Freebox Pop ou Box RED by SFR : les débits
+
+Commençons par le plus important en matière de connexion… les débits Internet. Chez RED les choses sont assez simples : 1 Gb/s descendant avec la promotion « Débit plus » offerte de façon quasi permanente, si vous êtes éligibles FTTH. L’upload monte à 500 Mb/s.
+
+De son côté, Free va beaucoup plus loin. La Freebox Pop atteint 5 Gb/s « partagés » descendants, 700 Mb/s montants. Ce débit partagé signifie que si la box est bel et bien capable de recevoir 5 Gb/s au total, vous ne pourrez pas atteindre cette vitesse sur un seul appareil. La limite sera de 2,5 Gb/s sur seul port Ethernet, ce qui reste déjà largement supérieur à RED by SFR.
+
+Bien entendu, il s’agit de débits maximums théoriques. En pratique, c’est moins et il est difficile de trouver une bonne moyenne des débits effectifs moyens des offres. Si l’on en croit le baromètre nperf, les débits fibre moyens des deux FAI sont très proches. Mais ces chiffres concernent toutes les offres fibres confondues.
+
+Vainqueur : Freebox Pop
+
+Freebox Pop ou Box RED by SFR : la télévision
+
+En 2020, Free semble croire encore à la TV. L’offre Freebox Pop inclut l’accès à 220 chaînes et le Player Pop dispose également de fonctionnalités avancées comme le contrôle du direct, etc.
+
+Comme à son habitude, SFR RED propose la TV en option à raison de 2 ou 4 euros par mois. Dans le premier cas, vous recevrez un décodeur TV grâce auquel vous pourrez regarder 35 chaînes ; dans le second, vous profitez de 100 chaînes. Cela signifie aussi que RED laisse le choix à ses utilisateurs.
+
+Free est donc clairement vainqueur sur la partie télévision.
+
+Freebox Pop ou Box RED by SFR : le téléphone
+
+Sur la téléphonie, Free propose les appels illimités vers les mobiles de France métropolitaine et des DOM, ainsi que vers les fixes de plus de 110 destinations. En temps normal, RED se contente des fixes de 100 destinations. En ce moment, les appels illimités vers les mobiles en France métropolitaine et les DOM sont également offerts contre 5 euros par mois en temps normal.
+
+Léger avantage pour Free
+
+Freebox Pop ou Box RED by SFR : les box
+
+Très récente, Freebox Pop dispose de tout le confort moderne avec notamment du Wi-Fi ac, 3 ports Ethernet et une alimentation via USB-type C. Sur la partie TV, on appréciera surtout le support de la 4K HDR. La box comme le player ont aussi le mérite d’être très discrets. Rappelons également que Free inclut dans son offre un répéteur Wi-Fi qui pourra s’avérer très pratique.
+
+Avec RED, on retrouve une configuration similaire avec Wi-Fi ac et 4 ports Ethernet en plus d’un USB 2.0 (mais pas d’USB-C). Le décodeur est lui aussi compatible 4K / HDR.
+
+Vainqueur : Free
+
+Freebox Pop ou Box RED by SFR : Le prix
+
+Disons-le clairement, sur le prix, RED est actuellement imbattable avec son offre 1 Gb/s à 23 euros par mois sans limite de durée. Même si l’on ajoute l’option TV à 4 euros par mois (soit 27 euros au total), la filiale de SFR reste moins chère que Free et ses 29,99 euros mensuels… la première année. Il faudra ensuite compter 39,99 euros par mois. En clair, Free est plus cher. Tout simplement.
+
+Vainqueur : RED
+
+Verdict
+
+Au final, on l’a vu, l’offre Freebox Pop a l’avantage sur tous les critères ou presque. Mais cette dernière reste toujours plus chère. La question est donc la suivante : l’écart de prix est-il justifié ? Si pendant la période de promotion, la première année, c’est clairement le cas, les 7 euros supplémentaires demandés par Free (en l’absence d’option TV chez RED), soit 84 euros sur l’année, méritent d’être déboursés. Ensuite, le surcoût annuel sera d’environ 204 euros.
+
+C’est une somme sensiblement plus importante qui, en substance, donne finalement droit à deux éléments principaux en faveur de Free : de meilleurs débits et une offre TV complète. Dans le premier cas, en 2020 et pour encore quelques années, le Gb/s offert par RED nous semble largement suffisant pour la très grande majorité des usages. Dans le second cas, il faudra regarder la TV, car il existe désormais des solutions alternatives au décodeur si l’on ne regarde que ponctuellement la télévision, on pense par exemple à la Mi Box S de Xiaomi.
+
+Pour résumer, la Freebox Pop est une bonne offre clef en main et facile d’accès, mais RED reste finalement une très bonne proposition si vous n’avez pas un budget très extensible.
+
+Et la couverture fibre ?
+
+On ne compare ici que les offres FTTH, c’est-à-dire en « vraie » fibre. Si vous n’êtes pas éligible à la FTTH de SFR, mais que vous l’êtes chez Free, optez bien évidemment pour le second. Notez toutefois que cela devrait être de moins en moins le cas puisque SFR va progressivement migrer ses clients FTTB en FTTH, et les nouveaux déploiements ne se font désormais qu’en FTTH.
+
+Pour tester votre éligibilité, vous pouvez toujours faire confiance à notre comparateur d’offres Internet. Il vous permettra de voir en un clin d’œil quelles sont les offres disponibles.

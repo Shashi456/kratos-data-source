@@ -1,0 +1,115 @@
+This is an excerpt from Second Opinion, a weekly roundup of eclectic and under-the-radar health and medical science news emailed to subscribers every Saturday morning. If you haven't subscribed yet, you can do that by clicking here.
+
+Disinfecting groceries, wiping down packages, cordoning off playgrounds.
+
+While those approaches to avoiding COVID-19 infection became commonplace early on in the pandemic, the virus may not transmit as easily on surfaces as was originally thought — and experts say it may be time to shift our focus on how we protect ourselves.
+
+To date, there have been "no specific reports" of COVID-19 directly from contact with contaminated surfaces, even though research consistently shows the virus can survive on them for several hours or days, the World Health Organization said on Thursday.
+
+The update was part of a new scientific brief released by the UN agency outlining its stance on how COVID-19 spreads, after an open letter from more than 200 experts to change its messaging on the possibility it transmits through the air.
+
+Despite the lack of concrete evidence on surface transmission, the WHO still maintains contaminated surfaces – also known as fomites – are a "likely mode of transmission" for COVID-19.
+
+Surfaces 'not a significant risk' for COVID-19
+
+But experts from a variety of disciplines aren't convinced, and some warn the focus on surfaces has been overblown.
+
+Emanuel Goldman, a microbiology professor at the New Jersey Medical School of Rutgers University, said in an article published in The Lancet journal earlier this week that the risk of COVID-19 infection from surfaces is "exaggerated."
+
+"This is not a significant risk," he told CBC News. "Not even a measurable risk."
+
+Goldman said the evidence for infection from surfaces was based on lab experiments that were unrealistic when compared to real life situations and used extremely large amounts of virus to test if it could survive over extended periods of time.
+
+Linsey Marr, an expert in the transmission of viruses at Virginia Tech who has studied the survival of COVID-19 on surfaces, said that while it's possible people could get infected from surfaces, it's still unclear if it's actually happening.
+
+Restaurants with patios, shopping malls and hair salons are among the businesses allowed to reopen as Toronto begins phase two of a stepped return to pre-COVID-19 operations on June 24, 2020. (Evan Mitsui/CBC)
+
+"I think the thinking has changed," Marr said, adding the perceived risk of transmission from contaminated surfaces is lower than it was earlier in the pandemic when not much was known about the coronavirus.
+
+She said in order to be infected with COVID-19 from a surface, a person would have to transfer it to their fingers where it would need to survive long enough to enter the body by touching the eyes, nose or mouth.
+
+"We know that virus can survive [on surfaces] and then the question is, can people pick those up and transfer them into their respiratory tract?" Marr said. "You have to have a lot of virus on there to cause infections."
+
+The average person infected with COVID-19 also isn't typically shedding large amounts of the virus at any given time, noted infectious disease specialist Dr. Zain Chagla, an associate professor at McMaster University in Hamilton.
+
+"Viruses aren't that environmentally hardy," he added.
+
+"They're built to infect humans. They're built to infect cells. As soon as they leave the human host and enter the environment, they become more and more unstable."
+
+Eugene Chudnovsky, a professor of physics at the City University of New York whose research has focused on the spread of the virus, said the threat of infection from a surface like a doorknob really depends on the conditions to which it was exposed.
+
+"If there are just a few people touching it in an hour, it's very unlikely it will contain the infective dose of the virus," he said.
+
+"But if this is a door that is getting opened every few seconds for a lengthy bit of time and there is a significant number of symptomatic infected people who are touching it during a few hours, it can accumulate a significant amount of the virus."
+
+Disinfecting surfaces 'not as necessary as we thought'
+
+One of the reasons the evidence for COVID-19 infection from surfaces is lacking is because it's difficult to track through contact tracing.
+
+"You can start asking people about conversations they had and places they were, but when you start asking them about surfaces they've touched, it gets much, much harder to really pin it down," said Erin Bromage, an associate biology professor at the University of Massachusetts Dartmouth who researches infectious diseases.
+
+"They're probably associated with a few percentage of transmissions, probably at the highest, which is a lot lower than what we find, say, for influenza – but it seems to be not a major driver with this particular pathogen."
+
+The Public Health Agency of Canada maintains it is "not certain how long COVID-19 survives on surfaces," and says the risk of infection from things like packages is low. It does, however, still list contaminated surfaces as a common route of infection.
+
+The U.S. Centers for Disease Control and Prevention updated its guidelines on surface transmission of COVID-19 in May, saying it "may be possible" a person can get COVID-19 by touching a surface that has the virus on it but it's not "the main way the virus spreads."
+
+"There's just a growing narrative that the degree of transmission through fomites is probably less than what was earlier anticipated," said Dr. Isaac Bogoch, an infectious disease physician at Toronto General Hospital.
+
+"The vast majority of transmission seems to be through close contact with an infected individual, primarily in an indoor setting."
+
+He said the change in thinking around the risk of COVID-19 infection from surfaces means that the average person's groceries are probably much less of a threat than a visit to the grocery store.
+
+"It reinforces hand hygiene, but it also tells us that the need to disinfect every surface that comes into the house is probably not as necessary as we thought it was earlier on in the pandemic," he said. "It's not hurting anybody, but it's just not necessary."
+
+WATCH | How to handle your groceries during the COVID-19 outbreak:
+
+The coronavirus can live up to several days on some surfaces, but experts say there's no reason to worry about the groceries you bring home. CBC News shows you how basic hygiene will keep you safe from your groceries. 1:36
+
+Bromage, who wrote a viral blog post in May shared by millions explaining the places people are most at risk of COVID-19 infection, said the risk of transmission from surfaces on things brought into the home is "quite low" in countries like the U.S. and Canada.
+
+"It's probably something to be aware of," he said, "but something that we don't need to focus a lot of anxiety and attention on."
+
+Chagla said the initial focus on surface contamination also sparked a common practice that could be downright harmful: wearing latex gloves while running errands or shopping.
+
+Discarded gloves are pictured at North York General Hospital on May 26, 2020. (Evan Mitsui/CBC)
+
+"Going to the grocery store wearing a pair of gloves is probably not the cleanest thing to be doing," he said.
+
+While health-care workers and food service staff wear gloves for infection control reasons, Chagla stressed they're used for specific purposes, and short periods of time.
+
+Wearing gloves for extended stretches while touching various objects can lead to cross-contamination the longer you're wearing them, he said, which winds up being less helpful than just washing or sanitizing your bare hands regularly.
+
+'Misinterpretation' of data
+
+For parents of young children who are concerned about the risk of COVID-19 infection from surfaces like playgrounds, which have been off limits in cities like Toronto for months, the lack of evidence is no doubt frustrating.
+
+Marr thinks the guidance on children avoiding playgrounds has been "misguided" throughout the pandemic.
+
+"Playgrounds are probably one of the safer places for kids to congregate, if they have to congregate," she said. "And the reason why is that sunlight kills off the virus pretty effectively. So if it is on surfaces, I don't think it's going to last very long."
+
+Chagla said at this point in the pandemic, there's no "good reason" why playgrounds should remain closed, given the combination of sunlight and open-air ventilation making them a relatively low-risk activity.
+
+Marr said the real risk of infection from playgrounds is largely from kids who are in close contact with each other, not from the surfaces they're interacting with.
+
+Howard Njoo, Canada's deputy chief public health officer, said Wednesday that officials are weighing the evidence on infection in children, but that the risk seems low.
+
+Caution tape is wrapped around a swing set at a playground in Regina on June 10. (Kirk Fraser/CBC)
+
+"From the science, what we know is that certainly young people, children, are less likely to have more severe consequences if they do get infected with the virus," he said.
+
+"It also appears that in terms of transmission, young children — at least in some of the studies I've seen — do not appear to be as efficient or effective in terms of transmitting the virus to others."
+
+Goldman said misguided policy decisions from governments and businesses pushed him to speak out about the lack of evidence for COVID-19 risk from surfaces.
+
+"The problem is the public policy was driven by this misinterpretation of the data," he said.
+
+"It's not that the data were wrong, but they were not the right data. It was not data that applied to the actual situations that are relevant."
+
+Goldman said these policy decisions can be "counterproductive" because they can "dilute" effective prevention measures like physical distancing and wearing a mask to stop the spread of COVID-19.
+
+"It's actually harmful to have the wrong interpretation of the data," he said.
+
+"I think it's time to say the emperor has no clothes."
+
+To read the entire Second Opinion newsletter every Saturday morning, subscribe by clicking here.

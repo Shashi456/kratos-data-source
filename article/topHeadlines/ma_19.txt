@@ -1,0 +1,11 @@
+Un énorme bug de Facebook a fait planter, ce vendredi de nombreuses applications iOS qui s’appuient sur son efficacité.
+
+Les applications concernées comprennent Spotify, Pinterest, Tinder ou encore Waze allant même à toucher et des services de réseaux sociaux concurrents comme Twitter.
+
+“Un changement de code a fait que certaines applications (fonctionnant avec le système d’exploitation d’Apple) iOS utilisant le kit de développement de logiciels de Facebook sont tombées en panne”, a reconnu un porte-parole de l’entreprise à l’AFP.
+
+“Nous avons rapidement identifié le problème et l’avons résolu. Nous nous excusons pour tout problème causé”, a-t-il ajouté.
+
+Après avoir durer de nombreuses heures, le problème a été résolu dans la journée. Le bug en question semble être assez similaire à celui de mai qui faisait planter toutes les applications qui s’appuient sur l Facebook pour les connexions, les analyses et les fonctions publicitaires au lancement.
+
+Le problème principal semble être «une mauvaise manipulation des données invalides inattendues» provoquée par les serveurs Facebook transmettant des données dans le mauvais format aux clients.En effet, les applications clientes ne savent pas comment gérer les données mal formatées.

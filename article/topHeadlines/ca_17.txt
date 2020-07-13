@@ -1,0 +1,20 @@
+Last week, we told you that thanks to a new feature in iOS 14, a number of apps were found to be "spying" on Apple iPhone users' clipboards . The clipboard is where information copied from an app is kept until it is pasted to another app. As a result, there often is personal data written on the clipboard that is automatically erased after 120 seconds. The next build of iOS will notify a user when a third-party app is "reading" that user's clipboard. Among the apps caught red-handed by iOS 14 were Chinese short-form video app TikTok, networking app LinkedIn, and social-media app Reddit.
+
+
+
+
+
+According to Bloomberg , a class-action lawsuit filed Friday in San Francisco federal court accuses Microsoft's LinkedIn social networking app of alleged violations of federal and California privacy laws and breach of contract. The suit was filed by Adam Bauer of New York City, who says that he often uses LinkedIn on his iPhone and iPad. The suit claims that "LinkedIn has not only been spying on its users, it has been spying on their nearby computers and other devices." The suit goes on to accuse LinkedIn of getting around the system used by Apple that automatically erases what is written on the clipboard after 120 seconds.
+
+
+
+
+
+Greg Snapper, a spokesman for LinkedIn, said that the company is reviewing the lawsuit; in a July 2nd tweet, LinkedIn engineering VP Erran Berger said, "We don’t store or transmit the clipboard contents." Berger blamed a code path that performs what he called an "equality check" between contents on the clipboard and typed text. In other words, LinkedIn said that a bug was behind its sniffing around iPhone users' clipboards. Developers and those testing beta versions of iOS 14 said that LinkedIn was secretly reading content on iOS users' clipboards "a lot," according to the suit. "Constantly, even."
+
+
+
+
+
+The suit seeks to represent a group of LinkedIn users similar to Mr. Bauer who use LinkedIn on their iOS devices.
+

@@ -1,0 +1,47 @@
+At the beginning of this year, a group of NASA scientists agonized over which robotic missions they should choose to explore our Solar System. Researchers from around the United States had submitted more than 20 intriguing ideas, such as whizzing by asteroids, diving into lava tubes on the Moon, and hovering in the Venusian atmosphere.
+
+Ultimately, NASA selected four of these Discovery-class missions for further study. In several months, the space agency will pick two of the four missions to fully fund, each with a cost cap of $450 million and a launch late within this decade. For the losing ideas, there may be more chances in future years—but until new opportunities arise, scientists can only plan, wait, and hope.
+
+This is more or less how NASA has done planetary science for decades. Scientists come up with all manner of great ideas to answer questions about our Solar System; then, NASA announces an opportunity, a feeding frenzy ensues for those limited slots. Ultimately, one or two missions get picked and fly. The whole process often takes a couple of decades from the initial idea to getting data back to Earth.
+
+This process has succeeded phenomenally. In the last half century, NASA has explored most of the large bodies in the Solar System, from the Sun and Mercury on one end to Pluto and the heliopause at the other. No other country or space agency has come close to NASA's planetary science achievements. And yet, as the abundance of Discovery-class mission proposals tells us, there is so much more we can learn about the Solar System.
+
+Now, two emerging technologies may propel NASA and the rest of the world into an era of faster, low-cost exploration. Instead of spending a decade or longer planning and developing a mission, then spending hundreds of millions (to billions!) of dollars bringing it off, perhaps we can fly a mission within a couple of years for a few tens of millions of dollars. This would lead to more exploration and also democratize access to the Solar System.
+
+In recent years, a new generation of companies is developing new rockets for small satellites that cost roughly $10 million for a launch. Already, Rocket Lab has announced a lunar program for its small Electron rocket. And Virgin Orbit has teamed up with a group of Polish universities to launch up to three missions to Mars with its LauncherOne vehicle.
+
+At the same time, the various components of satellites, from propulsion to batteries to instruments, are being miniaturized. It's not quite like a mobile phone, which today has more computing power than a machine that filled a room a few decades ago. But small satellites are following the same basic trend line.
+
+Moreover, the potential of tiny satellites is no longer theoretical. Two years ago, a pair of CubeSats built by NASA (and called MarCO-A and MarCO-B) launched along with the InSight mission. In space, the small satellites deployed their own solar arrays, stabilized themselves, pivoted toward the Sun, and then journeyed to Mars.
+
+"We are at a time when there are really interesting opportunities for people to do missions much more quickly," said Elizabeth Frank, an Applied Planetary Scientist at First Mode, a Seattle-based technology company. "It doesn't have to take decades. It creates more opportunity. This is a very exciting time in planetary science."
+
+Small sats
+
+NASA had several goals with its MarCO spacecraft, said Andy Klesh, an engineer at the Jet Propulsion Laboratory who served as technical lead for the mission. CubeSats had never flown beyond low-Earth orbit before. So during their six-month transit to Mars, the MarCOs proved small satellites could thrive in deep space, control their attitudes and, upon reaching their destination, use a high-gain antenna to stream data back home at 8 kilobits per second.
+
+But the briefcase-sized MarCO satellites were more than a mere technology demonstration. With the launch of its Mars InSight lander in 2018, NASA faced a communications blackout during the critical period when the spacecraft was due to enter the Martian atmosphere and touch down on the red planet.
+
+To close the communications gap, NASA built the two MarCO 6U CubeSats for $18.5 million and used them to relay data back from InSight during the landing process. Had InSight failed to land, the MarCOs would have served as black box data recorders, Klesh told Ars.
+
+The success of the MarCOs changed the perception of small satellites and planetary science. A few months after their mission ended, the European Space Agency announced that it would send two CubeSats on its "Hera" mission to a binary asteroid system. European engineers specifically cited the success of the MarCOs in their decision to send along CubeSats on the asteroid mission.
+
+NASA/JPL-Caltech
+
+NASA/JPL-Caltech
+
+NASA/JPL-Caltech
+
+NASA/JPL-Caltech
+
+NASA/JPL-Caltech
+
+NASA/JPL-Caltech
+
+The concept of interplanetary small satellite missions also spurred interest in the emerging new space industry. "That mission got our attention at Virgin Orbit," said Will Pomerantz, director of special projects at the California-based launch company. "We were inspired by it, and we wondered what else we might be able to do."
+
+After the MarCO missions, Pomerantz said, the company began to receive phone calls from research groups about LauncherOne, Virgin's small rocket that is dropped from a 747 aircraft before igniting its engine. How many kilograms could LauncherOne put into lunar orbit? Could the company add a highly energetic third stage? Ideas for missions to Venus, the asteroids, and Mars poured in.
+
+Polish scientists believe they can build a spacecraft with a mass of 50kg or less (each of the MarCO spacecraft weighed 13.5kg) that can take high-quality images of Mars and its moon, Phobos. Such a spacecraft might also be able to study the Martian atmosphere or even find reservoirs of liquid water beneath the surface of Mars. Access to low-cost launch was a key enabler of the idea.
+
+Absent this new mode of planetary exploration, Pomerantz noted, a country like Poland might only be able to participate as one of several secondary partners on a Mars mission. Now it can get full credit. "With even a modest mission like this, it could really put Poland on the map," Pomerantz said.

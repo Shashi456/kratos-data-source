@@ -1,0 +1,27 @@
+SAN FRANCISCO: Microsoft's LinkedIn was sued by a New York-based iPhone user on Friday (Jul 10) for allegedly reading and diverting users' sensitive content from Apple's Universal Clipboard application.
+
+According to Apple's website, Universal Clipboard allows users to copy text, images, photos, and videos on one Apple device and then paste the content onto another Apple device.
+
+Advertisement
+
+Advertisement
+
+According to the lawsuit filed in San Francisco federal court by Adam Bauer, LinkedIn reads the Clipboard information without notifying the user.
+
+LinkedIn did not immediately respond to Reuters' request for comment.
+
+According to media reports from last week, 53 apps including TikTok and LinkedIn were reported to be reading users' Universal Clipboard content, after Apple's latest privacy feature started alerting users whenever the clipboard was accessed with a banner saying "pasted from Messages".
+
+"These 'reads' are interpreted by Apple's Universal Clipboard as a 'paste' command," Bauer's lawsuit alleged.
+
+Advertisement
+
+Advertisement
+
+A LinkedIn executive had said on Twitter last week that the company released a new version of its app to end this practice.
+
+Developers and testers of Apple's operating system iOS 14 found that LinkedIn's application on iPhones and iPads "secretly" read users' clipboard "a lot", according to the complaint.
+
+The lawsuit seeks to certify the complaint as class action based on alleged violation of the law or social norms, under California laws.
+
+According to the complaint, LinkedIn has not only been spying on its users, it has been spying on their nearby computers and other devices, and it has been circumventing Apple's Universal Clipboard timeout.

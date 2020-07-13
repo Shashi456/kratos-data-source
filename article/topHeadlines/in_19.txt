@@ -1,0 +1,27 @@
+health
+
+Updated: Jul 11, 2020 16:25 IST
+
+Patients with COVID-19 who have elevated blood sugar levels without a previous diagnosis of diabetes may be at a high risk of death and an increased risk of severe complications from the infectious disease, a new study says. According to the scientists, including those from the Tongji Medical College in China, earlier studies had established high blood sugar as associated with an increased risk of mortality and poor outcomes in COVID-19 patients. However, they said direct correlation between fasting blood glucose (FBG) level at admission to hospital, and clinical outcomes of COVID-19 patients -- without diagnosed diabetes -- has not been well established. In the new study, published in the journal Diabetologia, the researchers examined the association between FBG on admission, and the 28-day mortality of COVID-19 patients without previously diagnosed diabetes in two hospitals in China.
+
+The study assessed data from all consecutive COVID-19 patients with a known outcome at 28-days and FBG measurement at admission from 24 January 2020 to 10 February 2020 in two hospitals based in Wuhan, China. “Blood sugar testing and control should be recommended to all COVID-19 patients even if they do not have pre-existing diabetes, as most COVID-19 patients are prone to glucose metabolic disorders,” they wrote in the study.
+
+In the research, the scientists assessed patients’ demographic and clinical data, 28-day outcomes, in-hospital complications, and CRB-65 scores -- a measure for assessing the severity of pneumonia based on four indicators, including level of confusion, respiratory rate, blood pressure, and age.
+
+They said a total of 605 COVID-19 patients were enrolled in the study, including 114 who died in hospital. According to the study, the median age of participants was 59 years and 322 were men. A total of 208 individuals had one or more underlying conditions, but were not diagnosed with diabetes, the scientists said, adding that high blood pressure was the most common co-morbidity. The researchers said almost one third of the patients fell into the highest category of FBG on admission, which they said would result in a diagnosis of type 2 diabetes if found consistently. The study noted that a further 17 per cent were in the range that would be considered pre-diabetic, while more than half were in the ‘normal’ FBG range.
+
+Based on the findings, the researchers said patients in the highest FBG group were 2.3 times more likely to die than those in the lowest. They said men were 75 per cent more likely to die than women, and that patients with higher CRB65 scores were also at higher risk of death.
+
+“This study shows, for the first time, that elevated FBG at admission is independently associated with increased 28-day mortality and percentages of in-hospital complications in COVID-19 patients without previous diagnosis of diabetes,” the scientists noted in the study.
+
+According to the scientists, COVID-19 patients might suffer from high blood sugar brought about by other conditions. They said critically ill patients may develop acute insulin resistance, manifested by high levels of blood sugar and insulin levels. “Patients with conditions not related to diabetes, such as severe sepsis, systemic inflammatory response syndrome (SIRS) and traumatic brain injury tend to have abnormally high blood sugar,” the researchers wrote in the study.
+
+Citing the limitations of the study, the scientists said the findings were based on a retrospective analysis of patient data.
+
+They said the study did not analyse levels of the molecule glycated haemoglobin (HbA1c) which is a long-term blood sugar control indicator that helps distinguish patients with poor long-term blood sugar control from those with stress hyperglycaemia. The researchers added that they did not have sufficient data to study the effect of glucose-lowering treatment such as insulin on the outcome of the patients. However, they believe acute hyperglycaemia is more important than long-term blood glucose control in predicting the clinical outcomes of hospitalised COVID-19 patients.
+
+The authors suggest that possible mechanisms for this increased mortality include high blood glucose-induced changes in blood clotting, worsening of the function of the walls of blood vessels, and overproduction of inflammatory immune system molecules. They said measuring fasting blood glucose levels can facilitate the assessment of prognosis and early intervention to help improve the overall outcomes in COVID-19 treatment.
+
+(This story has been published from a wire agency feed without modifications to the text. Only the headline has been changed.)
+
+Follow more stories on Facebook and Twitter
